@@ -1,0 +1,228 @@
+brand_name,model_name,starting_price,body_type,engine-cc,mileage
+Maruti,Alto 800,₹ 2.94 Lakh*,Hatchback,796.0,31.59
+Maruti,Alto K10,₹ 3.17 Lakh*,Hatchback,998.0,32.26
+Maruti,S-Presso,₹ 3.7 Lakh*,Hatchback,998.0,21.7
+Maruti,Eeco,₹ 3.8 Lakh*,Minivans,1196.0,21.94
+Maruti,Celerio,₹ 4.41 Lakh*,Hatchback,998.0,21.63
+Maruti,Wagon R,₹ 4.45 Lakh*,Hatchback,1197.0,20.52
+Maruti,Ignis,₹ 4.89 Lakh*,Hatchback,1197.0,20.89
+Maruti,Celerio X,₹ 4.9 Lakh*,Hatchback,998.0,21.63
+Maruti,Swift,₹ 5.19 Lakh*,Hatchback,1248.0,28.4
+Maruti,Baleno,₹ 5.63 Lakh*,Hatchback,1197.0,19.56
+Maruti,Dzire,₹ 5.82 Lakh*,Sedans,1248.0,28.4
+Maruti,Vitara Brezza,₹ 7.34 Lakh*,SUV,1462.0,18.76
+Maruti,Ertiga,₹ 7.59 Lakh*,MUV,1498.0,24.2
+Maruti,Ciaz,₹ 8.31 Lakh*,Sedans,1462.0,20.04
+Maruti,S-Cross,₹ 8.8 Lakh*,SUV,1248.0,25.1
+Maruti,XL6,₹ 9.84 Lakh*,MUV,1462.0,17.99
+Hyundai,Santro,₹ 4.57 Lakh*,Hatchback,1086.0,30.48
+Hyundai,Grand i10 Nios,₹ 5.04 Lakh*,Hatchback,1186.0,26.2
+Hyundai,Elite i20,₹ 5.59 Lakh*,Hatchback,1396.0,22.54
+Hyundai,Aura,₹ 5.79 Lakh*,Sedans,1186.0,0.0
+Hyundai,Xcent,₹ 5.81 Lakh*,Sedans,1186.0,25.4
+Hyundai,Grand i10,₹ 6.05 Lakh*,Hatchback,1197.0,18.9
+Hyundai,Venue,₹ 6.55 Lakh*,SUV,998.0,18.15
+Hyundai,i20 Active,₹ 7.74 Lakh*,Hatchback,1396.0,21.19
+Hyundai,Verna,₹ 8.17 Lakh*,Sedans,1582.0,22.0
+Hyundai,Creta,₹ 9.99 Lakh*,SUV,1582.0,20.5
+Hyundai,Elantra,₹ 15.88 Lakh*,Sedans,1999.0,14.62
+Hyundai,Tucson,₹ 18.76 Lakh*,SUV,1995.0,16.38
+Hyundai,Kona Electric,₹ 23.71 Lakh*,SUV,,0.0
+Honda,Amaze,₹ 6.09 Lakh*,Sedans,1498.0,24.7
+Honda,Jazz,₹ 7.45 Lakh*,Hatchback,1498.0,27.3
+Honda,WRV,₹ 8.08 Lakh*,SUV,1498.0,25.5
+Honda,BRV,₹ 9.52 Lakh*,SUV,1498.0,21.9
+Honda,City,₹ 9.91 Lakh*,Sedans,1497.0,17.4
+Honda,Civic,₹ 17.93 Lakh*,Sedans,1597.0,26.8
+Honda,CR-V,₹ 28.27 Lakh*,SUV,1597.0,19.5
+Honda,Accord,₹ 43.21 Lakh*,Hybrids,1993.0,23.1
+Tata,Tiago,₹ 4.6 Lakh*,Hatchback,1199.0,23.84
+Tata,Altroz,₹ 5.29 Lakh*,Hatchback,1497.0,0.0
+Tata,Bolt,₹ 5.29 Lakh*,Hatchback,1248.0,22.95
+Tata,Tigor,₹ 5.75 Lakh*,Sedans,1199.0,20.3
+Tata,Zest,₹ 5.82 Lakh*,Sedans,1248.0,21.58
+Tata,Tiago NRG,₹ 5.94 Lakh*,Hatchback,1047.0,27.0
+Tata,Tiago JTP,₹ 6.69 Lakh*,Hatchback,1199.0,23.84
+Tata,Yodha Pickup,₹ 6.94 Lakh*,Pickup Trucks,2956.0,0.0
+Tata,Nexon,₹ 6.94 Lakh*,SUV,1497.0,21.5
+Tata,Tigor JTP,₹ 7.59 Lakh*,Sedans,1199.0,20.3
+Tata,Tigor EV,₹ 9.17 Lakh*,Sedans,,0.0
+Tata,Safari Storme,₹ 11.09 Lakh*,SUV,2179.0,14.1
+Tata,Harrier,₹ 13.69 Lakh*,SUV,1956.0,17.0
+Tata,Hexa,₹ 13.7 Lakh*,MUV,2179.0,17.6
+Tata,Nexon EV,₹ 13.99 Lakh*,SUV,,0.0
+Mahindra,KUV100 NXT,₹ 4.88 Lakh*,Hatchback,1198.0,25.32
+Mahindra,e2oPlus,₹ 6.07 Lakh*,Hatchback,,110.0
+Mahindra,Verito Vibe,₹ 6.58 Lakh*,Hatchback,1461.0,20.8
+Mahindra,Bolero Pik-Up,₹ 6.9 Lakh*,Pickup Trucks,2523.0,0.0
+Mahindra,Verito,₹ 7.48 Lakh*,Sedans,1461.0,21.03
+Mahindra,Bolero Power Plus,₹ 7.61 Lakh*,SUV,1493.0,16.5
+Mahindra,XUV300,₹ 8.3 Lakh*,SUV,1497.0,20.0
+Mahindra,TUV 300,₹ 8.54 Lakh*,SUV,1493.0,18.49
+Mahindra,E Verito,₹ 9.12 Lakh*,Sedans,,0.0
+Mahindra,Xylo,₹ 9.17 Lakh*,MUV,2179.0,14.02
+Mahindra,Thar,₹ 9.59 Lakh*,SUV,2498.0,16.55
+Mahindra,TUV 300 Plus,₹ 9.92 Lakh*,SUV,2179.0,18.49
+Mahindra,Marazzo,₹ 9.99 Lakh*,MUV,1497.0,17.3
+Mahindra,Scorpio,₹ 10.19 Lakh*,SUV,2179.0,16.36
+Mahindra,XUV500,₹ 12.3 Lakh*,SUV,2179.0,15.1
+Mahindra,Alturas G4,₹ 27.7 Lakh*,SUV,2157.0,12.05
+Renault,KWID,₹ 2.92 Lakh*,Hatchback,999.0,24.04
+Renault,Triber,₹ 4.99 Lakh*,MUV,999.0,20.0
+Renault,Duster,₹ 7.99 Lakh*,SUV,1461.0,19.87
+Renault,Lodgy,₹ 8.63 Lakh*,MUV,1461.0,19.98
+Renault,Captur,₹ 9.49 Lakh*,SUV,1461.0,20.37
+Ford,Figo,₹ 5.39 Lakh*,Hatchback,1499.0,24.4
+Ford,Freestyle,₹ 5.89 Lakh*,Hatchback,1498.0,23.8
+Ford,Aspire,₹ 5.99 Lakh*,Sedans,1498.0,24.4
+Ford,EcoSport,₹ 8.04 Lakh*,SUV,1498.0,21.7
+Ford,Endeavour,₹ 29.55 Lakh*,SUV,1996.0,13.9
+Ford,Mustang,₹ 74.62 Lakh*,Coupe,4951.0,13.0
+Nissan,Micra Active,₹ 5.28 Lakh*,Hatchback,1198.0,19.69
+Nissan,Micra,₹ 6.66 Lakh*,Hatchback,1461.0,23.19
+Nissan,Sunny,₹ 7.07 Lakh*,Sedans,1498.0,17.5
+Nissan,Kicks,₹ 9.55 Lakh*,Hatchback,1461.0,20.45
+Nissan,Terrano,₹ 9.99 Lakh*,SUV,1461.0,19.61
+Nissan,GT-R,₹ 2.12 Cr*,Coupe,3798.0,9.0
+Datsun,redi-GO,₹ 2.82 Lakh*,Hatchback,999.0,23.0
+Datsun,GO,₹ 3.77 Lakh*,Hatchback,1198.0,20.07
+Datsun,GO Plus,₹ 4.15 Lakh*,MUV,1198.0,19.41
+Toyota,Etios Liva,₹ 5.34 Lakh*,Hatchback,1364.0,23.59
+Toyota,Etios Cross,₹ 6.5 Lakh*,Hatchback,1364.0,23.59
+Toyota,Platinum Etios,₹ 6.5 Lakh*,Sedans,1364.0,23.59
+Toyota,Glanza,₹ 6.97 Lakh*,Hatchback,1197.0,19.56
+Toyota,Yaris,₹ 8.76 Lakh*,Hatchback,1496.0,17.8
+Toyota,Innova Crysta,₹ 15.36 Lakh*,MUV,2393.0,13.68
+Toyota,Corolla Altis,₹ 16.45 Lakh*,Sedans,1798.0,14.28
+Toyota,Fortuner,₹ 28.18 Lakh*,SUV,2755.0,15.04
+Toyota,Camry,₹ 37.88 Lakh*,Sedans,2487.0,19.16
+Toyota,Prius,₹ 45.09 Lakh*,Hybrids,1798.0,26.27
+Toyota,Vellfire,₹ 79.5 Lakh*,MUV,2494.0,0.0
+MG,Hector,₹ 12.73 Lakh*,SUV,1451.0,13.96
+MG,ZS EV,₹ 20.88 Lakh*,SUV,,0.0
+Kia,Seltos,₹ 9.89 Lakh*,SUV,1493.0,17.8
+Kia,Carnival,₹ 24.95 Lakh*,MUV,2199.0,0.0
+Volkswagen,Polo,₹ 5.84 Lakh*,Hatchback,1498.0,21.49
+Volkswagen,Ameo,₹ 5.95 Lakh*,Sedans,1498.0,21.66
+Volkswagen,Vento,₹ 8.78 Lakh*,Sedans,1498.0,22.15
+Volkswagen,Tiguan,₹ 28.07 Lakh*,SUV,1968.0,16.65
+Skoda,Rapid,₹ 8.81 Lakh*,Sedans,1498.0,21.72
+Skoda,Octavia,₹ 15.99 Lakh*,Sedans,1968.0,19.5
+Skoda,Superb,₹ 23.99 Lakh*,Sedans,1968.0,18.19
+Skoda,Kodiaq,₹ 33.99 Lakh*,SUV,1968.0,16.25
+Jeep,Compass,₹ 16.49 Lakh*,SUV,1956.0,17.1
+Jeep,Compass Trailhawk,₹ 26.8 Lakh*,SUV,1956.0,16.3
+Jeep,Wrangler,₹ 63.94 Lakh*,SUV,1998.0,12.1
+Jeep,Grand Cherokee,₹ 78.88 Lakh*,SUV,2998.0,5.5
+Fiat,Punto EVO,₹ 5.35 Lakh*,Hatchback,1248.0,20.5
+Fiat,Avventura Urban Cross,₹ 6.77 Lakh*,Hatchback,1368.0,14.4
+Fiat,Avventura,₹ 7.11 Lakh*,Hatchback,1248.0,20.5
+Fiat,Linea,₹ 7.82 Lakh*,Sedans,1368.0,14.2
+Fiat,Abarth Punto,₹ 9.67 Lakh*,Hatchback,1368.0,16.3
+Fiat,Abarth Avventura,₹ 9.89 Lakh*,Hatchback,1368.0,17.1
+Isuzu,D-Max V-Cross,₹ 16.54 Lakh*,Pickup Trucks,1999.0,12.4
+Isuzu,ISUZU MUX,₹ 27.34 Lakh*,SUV,2999.0,13.8
+Audi,A3,₹ 29.2 Lakh*,Sedans,1968.0,20.38
+Audi,Q3,₹ 34.96 Lakh*,SUV,1968.0,15.17
+Audi,A4,₹ 41.49 Lakh*,Sedans,1968.0,18.25
+Audi,Q5,₹ 50.21 Lakh*,SUV,1984.0,8.5
+Audi,A3 cabriolet,₹ 50.59 Lakh*,Convertibles,1395.0,19.2
+Audi,A6,₹ 54.42 Lakh*,Sedans,1984.0,15.26
+Audi,A5,₹ 60.61 Lakh*,Sedans,1968.0,17.2
+Audi,Q7,₹ 69.21 Lakh*,SUV,2967.0,14.75
+Audi,S5,₹ 72.65 Lakh*,Sedans,2995.0,12.28
+Audi,RS5,₹ 1.11 Cr*,Coupe,2894.0,11.05
+Audi,Q8,₹ 1.33 Cr*,SUV,2995.0,0.0
+Audi,A8,₹ 1.56 Cr*,Sedans,2995.0,0.0
+Mercedes-Benz,GLA Class,₹ 32.33 Lakh*,SUV,2143.0,17.9
+Mercedes-Benz,C-Class,₹ 40.9 Lakh*,Convertibles,2996.0,11.9
+Mercedes-Benz,GLC,₹ 52.75 Lakh*,SUV,1950.0,0.0
+Mercedes-Benz,E-Class,₹ 59.07 Lakh*,Sedans,3982.0,10.98
+Mercedes-Benz,V-Class,₹ 68.4 Lakh*,MUV,2143.0,16.0
+Mercedes-Benz,GLE,₹ 73.7 Lakh*,SUV,2925.0,9.7
+Mercedes-Benz,E-Class All-Terrain,₹ 75.0 Lakh*,Wagons,1950.0,12.6
+Mercedes-Benz,CLS,₹ 84.7 Lakh*,Sedans,1950.0,19.0
+Mercedes-Benz,GLS,₹ 87.76 Lakh*,SUV,2987.0,11.0
+Mercedes-Benz,S-Class,₹ 1.35 Cr*,Sedans,5980.0,7.08
+Mercedes-Benz,G-Class,₹ 1.5 Cr*,SUV,3998.0,8.13
+Mercedes-Benz,AMG GT,₹ 2.27 Cr*,Coupe,3982.0,12.65
+Mercedes-Benz,AMG GT 4-Door Coupe,₹ 2.42 Cr*,Coupe,3998.0,0.0
+BMW,X1,₹ 35.2 Lakh*,SUV,1995.0,20.68
+BMW,3 Series,₹ 41.4 Lakh*,Sedans,1998.0,16.13
+BMW,3 Series GT,₹ 47.7 Lakh*,Sedans,1995.0,21.76
+BMW,5 Series,₹ 55.4 Lakh*,Sedans,2993.0,18.59
+BMW,X3,₹ 56.0 Lakh*,SUV,1998.0,13.32
+BMW,X4,₹ 60.6 Lakh*,SUV,2993.0,14.71
+BMW,6 Series,₹ 64.4 Lakh*,Sedans,2993.0,17.09
+BMW,Z4,₹ 66.0 Lakh*,Convertibles,2998.0,14.37
+BMW,X5,₹ 73.3 Lakh*,SUV,2998.0,11.24
+BMW,M2,₹ 83.4 Lakh*,Coupe,2979.0,10.63
+BMW,X7,₹ 1.02 Cr*,SUV,2998.0,10.54
+BMW,7 Series,₹ 1.22 Cr*,Sedans,6592.0,7.96
+BMW,M Series,₹ 1.35 Cr*,Sedans,4395.0,9.8
+Jaguar,XE,₹ 44.98 Lakh*,Sedans,1999.0,0.0
+Jaguar,XF,₹ 49.78 Lakh*,Sedans,1999.0,19.33
+Jaguar,F-PACE,₹ 63.78 Lakh*,SUV,1997.0,14.38
+Jaguar,F-TYPE,₹ 90.93 Lakh*,Coupe,5000.0,12.5
+Jaguar,XJ,₹ 1.11 Cr*,Sedans,2993.0,14.47
+Volvo,S60,₹ 38.5 Lakh*,luxury,1969.0,19.6
+Volvo,XC40,₹ 39.9 Lakh*,SUV,1969.0,18.0
+Volvo,S60 Cross Country,₹ 44.26 Lakh*,Sedans,2400.0,19.6
+Volvo,S90,₹ 51.9 Lakh*,Sedans,1969.0,18.0
+Volvo,XC60,₹ 52.9 Lakh*,SUV,1969.0,11.2
+Volvo,V90 Cross Country,₹ 65.31 Lakh*,Wagons,1969.0,12.5
+Volvo,XC90,₹ 80.9 Lakh*,luxury,1969.0,42.0
+Lexus,ES,₹ 51.9 Lakh*,Sedans,2487.0,22.37
+Lexus,NX,₹ 54.9 Lakh*,SUV,2499.0,18.32
+Lexus,RX,₹ 99.0 Lakh*,SUV,3456.0,18.8
+Lexus,LS,₹ 1.82 Cr*,Sedans,3456.0,15.4
+Lexus,LC 500h,₹ 1.96 Cr*,Sedans,3456.0,0.0
+Lexus,LX,₹ 2.32 Cr*,SUV,5663.0,6.9
+Land Rover,Range Rover Evoque,₹ 54.94 Lakh*,SUV,1999.0,0.0
+Land Rover,Discovery Sport,₹ 57.06 Lakh*,SUV,1999.0,0.0
+Land Rover,Defender,₹ 69.99 Lakh*,SUV,1997.0,0.0
+Land Rover,Range Rover Velar,₹ 71.87 Lakh*,SUV,1997.0,15.8
+Land Rover,Discovery,₹ 75.6 Lakh*,SUV,1999.0,18.0
+Land Rover,Range Rover Sport,₹ 87.02 Lakh*,SUV,1997.0,12.65
+Land Rover,Range Rover,₹ 1.82 Cr*,SUV,4999.0,7.8
+Porsche,Macan,₹ 69.98 Lakh*,SUV,2997.0,0.0
+Porsche,718,₹ 85.95 Lakh*,Coupe,1988.0,9.0
+Porsche,Cayenne,₹ 1.19 Cr*,SUV,3996.0,0.0
+Porsche,Cayenne Coupe,₹ 1.31 Cr*,Coupe,3996.0,0.0
+Porsche,911,₹ 1.62 Cr*,Coupe,2981.0,9.0
+Porsche,Panamera,₹ 1.89 Cr*,Sedans,3996.0,10.75
+Ferrari,Portofino,₹ 3.5 Cr*,Convertibles,3855.0,9.0
+Ferrari,GTC4Lusso,₹ 4.26 Cr*,Coupe,6262.0,4.0
+Ferrari,488,₹ 4.4 Cr*,Coupe,3902.0,7.75
+Ferrari,812 Superfast,₹ 5.2 Cr*,Coupe,6496.0,6.7
+Rolls-Royce,Ghost,₹ 6.21 Cr*,Sedans,6592.0,10.2
+Rolls-Royce,Wraith,₹ 6.71 Cr*,Coupe,6592.0,10.2
+Rolls-Royce,Rolls-Royce Cullinan,₹ 6.95 Cr*,SUV,6750.0,9.5
+Rolls-Royce,Dawn,₹ 7.3 Cr*,Convertibles,6598.0,9.8
+Rolls-Royce,Phantom,₹ 9.5 Cr*,Coupe,6749.0,9.8
+Bentley,Flying Spur,₹ 3.21 Cr*,Sedans,5998.0,10.2
+Bentley,Continental,₹ 3.29 Cr*,Sedans,5998.0,9.5
+Bentley,Bentayga,₹ 3.78 Cr*,SUV,5950.0,10.9
+Bentley,Mulsanne,₹ 5.55 Cr*,Sedans,6752.0,10.1
+DC,Avanti,₹ 48.0 Lakh*,Coupe,2000.0,10.0
+Bugatti,Chiron,₹ 19.21 Cr*,Coupe,7993.0,5.95
+Force,Gurkha,₹ 9.75 Lakh*,SUV,2149.0,17.0
+Mitsubishi,Outlander,₹ 27.19 Lakh*,SUV,2360.0,10.2
+Mitsubishi,Pajero Sport,₹ 27.91 Lakh*,SUV,2477.0,13.5
+Bajaj,Qute (RE60),₹ 2.48 Lakh*,Hatchback,216.0,43.0
+Lamborghini,Huracan,₹ 2.99 Cr*,Coupe,5204.0,11.24
+Lamborghini,Urus,₹ 3.1 Cr*,SUV,3996.0,8.0
+Lamborghini,Huracan EVO,₹ 3.22 Cr*,Coupe,5204.0,7.19
+Lamborghini,Aventador,₹ 5.01 Cr*,Coupe,6498.0,7.69
+Mini,Cooper 3 DOOR,₹ 29.9 Lakh*,Hatchback,1998.0,16.47
+Mini,Cooper 5 DOOR,₹ 36.0 Lakh*,Hatchback,1496.0,20.7
+Mini,Countryman,₹ 37.4 Lakh*,Hatchback,1998.0,16.6
+Mini,Cooper Convertible,₹ 38.9 Lakh*,Convertibles,1998.0,16.7
+Mini,Clubman,₹ 41.2 Lakh*,Hatchback,1998.0,13.79
+Aston Martin,Rapide,₹ 3.29 Cr*,Sedans,5935.0,10.9
+Aston Martin,DB11,₹ 3.97 Cr*,Coupe,5204.0,6.0
+Maserati,Ghibli,₹ 1.35 Cr*,Sedans,2987.0,16.94
+Maserati,Levante,₹ 1.49 Cr*,SUV,2979.0,12.0
+Maserati,Quattroporte,₹ 1.71 Cr*,Sedans,3799.0,11.76
+Maserati,GranTurismo,₹ 2.25 Cr*,Coupe,4691.0,10.0
+Maserati,GranCabrio,₹ 2.46 Cr*,Convertibles,4691.0,10.2
