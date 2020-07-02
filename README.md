@@ -2,7 +2,7 @@
 A Content based recommendation system to  get similar cars based on cars metadata
 
 ## Demo
-Link: [https://car-recommendation.herokuapp.com/](https://indian-currency-prediction.herokuapp.com/)
+Link: [https://car-recommendation.herokuapp.com/](https://car-recommendation.herokuapp.com/)
 
 
 [![](https://i.imgur.com/O93sw1y.png)](https://car-recommendation.herokuapp.com/)
