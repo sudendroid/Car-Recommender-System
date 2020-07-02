@@ -1,0 +1,96 @@
+{% extends 'base_full_width.html' %}
+
+
+{% block content %}
+<nav class="navbar navbar-dark bg-dark">
+    <a class="navbar-brand" href="http://127.0.0.1:5000/car-recommondar-system">Car Recommendation System</a>
+</nav>
+<section class="main-car">
+    <div class="jumbotron car-preview p-0">
+        <div class="row">
+            <div class="col-md-7">
+                <div class="p-5">
+                    <h2 class="display-4">{{car.brand_name}} {{car.model_name}}</h2>
+                    <p class="lead">{{car.body_type}} - {{ car.engine}} cc</p>
+                    <p class="lead">{{car.min_price}}</p>
+                </div>
+            </div>
+            <div class="col-md-5">
+                <img src="{{car.image}}" alt="" class="main-car-image img-fluid">
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="col mt-5">
+    <!-- <div class="card mb-3" style="width: 18rem;" onclick="location.href='{{car.vid}}'">
+        <img src="{{ car.image }}" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title">{{ car.brand_name }} {{ car.model_name }}</h5>
+            <p class="card-text">{{ car.body_type }} - {{ car.engine }} cc</p>
+            <p class="card-text">
+                <small class="text-muted">{{ car.min_price }}</small>
+            </p>
+        </div>
+    </div> -->
+
+    <section class="container">
+        <h3 class="card-title mb-3">Similar cars of {{ car.brand_name }} {{ car.model_name }}</h3>
+        <div class="cars mx-5">
+        {% for similarcar in similarcars %}
+            <div class="card mb-3 mx-3 card-hover cursor-pointer" style="width: 18rem;" onclick="location.href='{{similarcar.vid}}'">
+                <img src="{{ similarcar.image }}" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">{{ similarcar.brand_name }} {{ similarcar.model_name }}</h5>
+                    <p class="card-text">{{ similarcar.body_type }} - {{ similarcar.engine }} cc</p>
+                    <p class="card-text">
+                        <small class="text-muted">{{ similarcar.min_price }}</small>
+                    </p>
+                </div>
+            </div>
+        {% endfor %}
+        </div>
+    </section>
+
+</div>
+{% endblock %}
+
+
+{% block js %}
+<script>
+    $(document).ready(function() {
+        $('.cars').slick({
+            infinite: true,
+            slidesToShow: 4,
+            slidesToScroll: 4,
+            dots: true,
+            responsive: [
+                {
+                breakpoint: 1024,
+                settings: {
+                    slidesToShow: 3,
+                    slidesToScroll: 3,
+                    infinite: true,
+                    dots: true
+                }
+                },
+                {
+                breakpoint: 800,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 2
+                }
+                },
+                {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1
+                }
+                }
+            ]
+        });
+    })
+</script>
+
+{% endblock %}

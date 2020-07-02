@@ -1,0 +1,228 @@
+vid,brand_name,model_name,avg_rating,min_price,max_price,image,body_type,engine,mileage
+0,Maruti,Alto 800,4.5,₹ 2.94 Lakh*,₹ 4.36 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Maruti-Alto-800/7066/1565265450182/front-left-side-47.jpg,Hatchback,796,31.59
+1,Maruti,Alto K10,4.4,₹ 3.17 Lakh*,₹ 4.07 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Maruti-Alto-K10/3482/front-left-side-47.jpg,Hatchback,998,32.26
+2,Maruti,S-Presso,4.4,₹ 3.7 Lakh*,₹ 4.99 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Future-S/6166/1569405133474/front-left-side-47.jpg,Hatchback,998,21.7
+3,Maruti,Eeco,4.2,₹ 3.8 Lakh*,₹ 4.75 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Eeco/7346/1581669301115/front-left-side-47.jpg,Minivans,1196,21.94
+4,Maruti,Celerio,4.4,₹ 4.41 Lakh*,₹ 5.58 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Celerio/7366/1580276352118/front-left-side-47.jpg,Hatchback,998,21.63
+5,Maruti,Wagon R,4.4,₹ 4.45 Lakh*,₹ 5.94 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Maruti-Wagon-R/6741/1564746908438/front-left-side-47.jpg,Hatchback,1197,20.52
+6,Maruti,Ignis,4.5,₹ 4.89 Lakh*,₹ 7.19 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Ignis/7584/1583132645318/front-left-side-47.jpg,Hatchback,1197,20.89
+7,Maruti,Celerio X,4.4,₹ 4.9 Lakh*,₹ 5.67 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Maruti-Celerio-X/6043/front-left-side-47.jpg,Hatchback,998,21.63
+8,Maruti,Swift,4.5,₹ 5.19 Lakh*,₹ 8.84 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/6318/1572069250647/front-left-side-47.jpg,Hatchback,1248,28.4
+9,Maruti,Baleno,4.5,₹ 5.63 Lakh*,₹ 8.96 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Maruti-Baleno/6780/1564491336282/front-left-side-47.jpg,Hatchback,1197,19.56
+10,Maruti,Dzire,4.5,₹ 5.82 Lakh*,₹ 9.52 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Maruti-Swift-Dzire/5839/1565357681342/front-left-side-47.jpg,Sedans,1248,28.4
+11,Maruti,Vitara Brezza,4.4,₹ 7.34 Lakh*,₹ 11.4 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Vitara-Brezza-2020/7573/1581582310179/front-left-side-47.jpg,SUV,1462,18.76
+12,Maruti,Ertiga,4.6,₹ 7.59 Lakh*,₹ 11.2 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Ertiga/7044/1574335436373/front-left-side-47.jpg,MUV,1498,24.2
+13,Maruti,Ciaz,4.5,₹ 8.31 Lakh*,₹ 11.09 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Ciaz/7408/1580274224830/front-left-side-47.jpg,Sedans,1462,20.04
+14,Maruti,S-Cross,4.6,₹ 8.8 Lakh*,₹ 11.43 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Maruti-SX4-S-Cross/6033/front-left-side-47.jpg,SUV,1248,25.1
+15,Maruti,XL6,4.3,₹ 9.84 Lakh*,₹ 11.51 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/XL6/7030/1579078188149/front-left-side-47.jpg,MUV,1462,17.99
+16,Hyundai,Santro,4.4,₹ 4.57 Lakh*,₹ 5.98 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Santro/7460/1580383928842/front-left-side-47.jpg,Hatchback,1086,30.48
+17,Hyundai,Grand i10 Nios,4.8,₹ 5.04 Lakh*,₹ 8.04 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Grand-i10-Nios/7543/Hyundai-Grand-i10-Nios-Turbo/1581425177736/front-left-side-47.jpg,Hatchback,1186,26.2
+18,Hyundai,Elite i20,4.6,₹ 5.59 Lakh*,₹ 9.41 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Elite-i20/7469/1580385615869/front-left-side-47.jpg,Hatchback,1396,22.54
+19,Hyundai,Aura,4.5,₹ 5.79 Lakh*,₹ 9.22 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Aura/7234/1579860873190/front-left-side-47.jpg,Sedans,1186,0.0
+20,Hyundai,Xcent,4.5,₹ 5.81 Lakh*,₹ 8.75 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Hyundai-Xcent/5789/1559026746847/front-left-side-47.jpg,Sedans,1186,25.4
+21,Hyundai,Grand i10,4.6,₹ 6.05 Lakh*,₹ 6.57 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Grand-i10/7467/1580384497686/front-left-side-47.jpg,Hatchback,1197,18.9
+22,Hyundai,Venue,4.5,₹ 6.55 Lakh*,₹ 11.15 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Hyundai-Venue/6888/1558685775843/front-left-side-47.jpg,SUV,998,18.15
+23,Hyundai,i20 Active,4.6,₹ 7.74 Lakh*,₹ 9.93 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Hyundai-i20-Active/6381/1565342779862/front-left-side-47.jpg,Hatchback,1396,21.19
+24,Hyundai,Verna,4.6,₹ 8.17 Lakh*,₹ 14.07 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Hyundai-Verna/6695/1565340457860/front-left-side-47.jpg,Sedans,1582,22.0
+25,Hyundai,Creta,4.7,₹ 9.99 Lakh*,₹ 15.72 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Hyundai-Creta/6437/front-left-side-47.jpg,SUV,1582,20.5
+26,Hyundai,Elantra,4.9,₹ 15.88 Lakh*,₹ 20.39 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Elantra/7167/1570093022024/front-left-side-47.jpg,Sedans,1999,14.62
+27,Hyundai,Tucson,4.1,₹ 18.76 Lakh*,₹ 26.97 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Hyundai-Tucson/5519/1560165575598/front-left-side-47.jpg,SUV,1995,16.38
+28,Hyundai,Kona Electric,4.3,₹ 23.71 Lakh*,₹ 23.9 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Hyundai-Kona/6234/1562646651262/front-left-side-47.jpg,SUV,,0.0
+29,Honda,Amaze,4.3,₹ 6.09 Lakh*,₹ 9.95 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Honda/Amaze/7439/1580301873085/front-left-side-47.jpg,Sedans,1498,24.7
+30,Honda,Jazz,4.4,₹ 7.45 Lakh*,₹ 9.4 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Honda/Honda-Jazz/6510/1551069682934/front-left-side-47.jpg,Hatchback,1498,27.3
+31,Honda,WRV,4.3,₹ 8.08 Lakh*,₹ 10.48 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Honda/Honda-WR-V/5485/1543318302281/front-left-side-47.jpg,SUV,1498,25.5
+32,Honda,BRV,4.6,₹ 9.52 Lakh*,₹ 13.82 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Honda/Honda-BR-V/4143/front-left-side-47.jpg,SUV,1498,21.9
+33,Honda,City,4.5,₹ 9.91 Lakh*,₹ 14.31 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Honda/Honda-City/5630/1557812647206/front-left-side-47.jpg,Sedans,1497,17.4
+34,Honda,Civic,4.7,₹ 17.93 Lakh*,₹ 22.34 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Honda/Honda-Civic/6849/1557907562298/front-left-side-47.jpg,Sedans,1597,26.8
+35,Honda,CR-V,4.2,₹ 28.27 Lakh*,₹ 32.77 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Honda/Honda-CR-V/6638/front-left-side-47.jpg,SUV,1597,19.5
+36,Honda,Accord,4.7,₹ 43.21 Lakh*,₹ 43.21 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Honda/Honda-New-Accord/5494/front-left-side-47.jpg,Hybrids,1993,23.1
+37,Tata,Tiago,4.4,₹ 4.6 Lakh*,₹ 6.6 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Tiago/7377/1579764704486/front-left-side-47.jpg,Hatchback,1199,23.84
+38,Tata,Altroz,4.7,₹ 5.29 Lakh*,₹ 9.29 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Altroz/7247/1578642800962/front-left-side-47.jpg,Hatchback,1497,0.0
+39,Tata,Bolt,4.6,₹ 5.29 Lakh*,₹ 7.87 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Tata-Bolt/3778/front-left-side-47.jpg,Hatchback,1248,22.95
+40,Tata,Tigor,4.1,₹ 5.75 Lakh*,₹ 7.49 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Tigor/7339/1579858414566/front-left-side-47.jpg,Sedans,1199,20.3
+41,Tata,Zest,4.4,₹ 5.82 Lakh*,₹ 9.89 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Tata-Zest/3096/1560166506286/front-left-side-47.jpg,Sedans,1248,21.58
+42,Tata,Tiago NRG,4.5,₹ 5.94 Lakh*,₹ 6.89 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Tata-Tiago-NRG/6590/1551091636770/front-left-side-47.jpg,Hatchback,1047,27.0
+43,Tata,Tiago JTP,4.8,₹ 6.69 Lakh*,₹ 6.69 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Tata-Tiago-JTP/6681/1563863533614/front-left-side-47.jpg,Hatchback,1199,23.84
+44,Tata,Yodha Pickup,0.0,₹ 6.94 Lakh*,₹ 7.49 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Yodha-Pickup/7620/1582257809719/front-left-side-47.jpg,Pickup Trucks,2956,0.0
+45,Tata,Nexon,4.6,₹ 6.94 Lakh*,₹ 12.7 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Nexon/7297/1580710491338/front-left-side-47.jpg,SUV,1497,21.5
+46,Tata,Tigor JTP,4.6,₹ 7.59 Lakh*,₹ 7.59 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Tata-Tigor-JTP/6682/front-left-side-47.jpg,Sedans,1199,20.3
+47,Tata,Tigor EV,4.5,₹ 9.17 Lakh*,₹ 9.75 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Tata-Tigor-EV/7010/1562745412915/front-left-side-47.jpg,Sedans,,0.0
+48,Tata,Safari Storme,4.4,₹ 11.09 Lakh*,₹ 16.43 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Tata-Safari-Storme/1732/front-left-side-47.jpg,SUV,2179,14.1
+49,Tata,Harrier,4.7,₹ 13.69 Lakh*,₹ 20.25 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Harrier/7503/1581510024851/front-left-side-47.jpg,SUV,1956,17.0
+50,Tata,Hexa,4.6,₹ 13.7 Lakh*,₹ 19.27 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Tata-Hexa/4142/1563863671942/front-left-side-47.jpg,MUV,2179,17.6
+51,Tata,Nexon EV,4.8,₹ 13.99 Lakh*,₹ 15.99 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Nexon-EV/7042/1576845369560/front-left-side-47.jpg,SUV,,0.0
+52,Mahindra,KUV100 NXT,4.3,₹ 4.88 Lakh*,₹ 7.94 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/Mahindra-KUV-100/6069/front-left-side-47.jpg,Hatchback,1198,25.32
+53,Mahindra,e2oPlus,3.8,₹ 6.07 Lakh*,₹ 6.83 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/Mahindra-e2o-Plus/5487/1556194637042/front-left-side-47.jpg,Hatchback,,110.0
+54,Mahindra,Verito Vibe,4.1,₹ 6.58 Lakh*,₹ 7.51 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/Mahindra-Verito-Vibe/2417/1550810642721/front-left-side-47.jpg,Hatchback,1461,20.8
+55,Mahindra,Bolero Pik-Up,4.5,₹ 6.9 Lakh*,₹ 7.19 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/Bolero-Pik-Up/7230/1573280100232/front-left-side-47.jpg,Pickup Trucks,2523,0.0
+56,Mahindra,Verito,4.2,₹ 7.48 Lakh*,₹ 8.87 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/Mahindra-Verito/2293/1556195492457/front-left-side-47.jpg,Sedans,1461,21.03
+57,Mahindra,Bolero Power Plus,4.7,₹ 7.61 Lakh*,₹ 8.99 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/Mahindra-Bolero-Power-Plus/6486/front-view-118.jpg,SUV,1493,16.5
+58,Mahindra,XUV300,4.6,₹ 8.3 Lakh*,₹ 12.68 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/XUV300/7239/1579261790507/front-left-side-47.jpg,SUV,1497,20.0
+59,Mahindra,TUV 300,4.4,₹ 8.54 Lakh*,₹ 10.55 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/Mahindra-TUV-300/6914/1556881143282/front-left-side-47.jpg,SUV,1493,18.49
+60,Mahindra,E Verito,4.6,₹ 9.12 Lakh*,₹ 9.46 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/360x240/Mahindra/Mahindra-E-Verito/047.jpg,Sedans,,0.0
+61,Mahindra,Xylo,4.1,₹ 9.17 Lakh*,₹ 12.0 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/Mahindra-Xylo/1616/1550813511065/front-left-side-47.jpg,MUV,2179,14.02
+62,Mahindra,Thar,4.4,₹ 9.59 Lakh*,₹ 9.99 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/Mahindra-Thar/6989/1561115576578/front-left-side-47.jpg,SUV,2498,16.55
+63,Mahindra,TUV 300 Plus,4.6,₹ 9.92 Lakh*,₹ 11.42 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/Mahindra-TUV-300-Plus/6469/front-left-side-47.jpg,SUV,2179,18.49
+64,Mahindra,Marazzo,4.7,₹ 9.99 Lakh*,₹ 14.76 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/Marazzo/6571/1579860084896/front-left-side-47.jpg,MUV,1497,17.3
+65,Mahindra,Scorpio,4.6,₹ 10.19 Lakh*,₹ 16.83 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/Mahindra-Scorpio/6120/1549006757162/front-left-side-47.jpg,SUV,2179,16.36
+66,Mahindra,XUV500,4.3,₹ 12.3 Lakh*,₹ 18.62 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/Mahindra-XUV500/6360/front-left-side-47.jpg,SUV,2179,15.1
+67,Mahindra,Alturas G4,4.9,₹ 27.7 Lakh*,₹ 30.7 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/Mahindra-Alturas-G4/6708/1547729558138/front-left-side-47.jpg,SUV,2157,12.05
+68,Renault,KWID,4.5,₹ 2.92 Lakh*,₹ 5.01 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Renault/KWID/7426/1580286379253/front-left-side-47.jpg,Hatchback,999,24.04
+69,Renault,Triber,4.4,₹ 4.99 Lakh*,₹ 6.78 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Renault/Triber/7418/1580113966019/front-left-side-47.jpg,MUV,999,20.0
+70,Renault,Duster,4.5,₹ 7.99 Lakh*,₹ 12.49 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Renault/Renault-Duster/7014/1562581388944/front-left-side-47.jpg,SUV,1461,19.87
+71,Renault,Lodgy,4.2,₹ 8.63 Lakh*,₹ 12.11 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Renault/Renault-Lodgy/5532/front-left-side-47.jpg,MUV,1461,19.98
+72,Renault,Captur,4.6,₹ 9.49 Lakh*,₹ 12.99 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Renault/Renault-Captur/6868/1556006265951/front-left-side-47.jpg,SUV,1461,20.37
+73,Ford,Figo,4.6,₹ 5.39 Lakh*,₹ 7.85 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Ford/Figo/7598/1582114400242/front-left-side-47.jpg,Hatchback,1499,24.4
+74,Ford,Freestyle,4.7,₹ 5.89 Lakh*,₹ 8.19 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Ford/Freestyle/7599/1582116363682/front-left-side-47.jpg,Hatchback,1498,23.8
+75,Ford,Aspire,4.6,₹ 5.99 Lakh*,₹ 8.34 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Ford/Aspire/7606/1582117845890/front-left-side-47.jpg,Sedans,1498,24.4
+76,Ford,EcoSport,4.6,₹ 8.04 Lakh*,₹ 11.58 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Ford/Ecosport/7347/1579861367280/front-left-side-47.jpg,SUV,1498,21.7
+77,Ford,Endeavour,4.3,₹ 29.55 Lakh*,₹ 33.25 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Ford/Endeavour/7591/1582629289185/front-left-side-47.jpg,SUV,1996,13.9
+78,Ford,Mustang,4.7,₹ 74.62 Lakh*,₹ 74.62 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Ford/Mustang/1102/1569565000696/front-left-side-47.jpg,Coupe,4951,13.0
+79,Nissan,Micra Active,4.1,₹ 5.28 Lakh*,₹ 6.03 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Nissan/Nissan-Micra-Active/2520/1563864334756/front-left-side-47.jpg,Hatchback,1198,19.69
+80,Nissan,Micra,4.0,₹ 6.66 Lakh*,₹ 8.16 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Nissan/Nissan-Micra/6540/1556168538901/front-left-side-47.jpg,Hatchback,1461,23.19
+81,Nissan,Sunny,4.5,₹ 7.07 Lakh*,₹ 9.93 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Nissan/Nissan-Sunny/5591/front-left-side-47.jpg,Sedans,1498,17.5
+82,Nissan,Kicks,4.3,₹ 9.55 Lakh*,₹ 13.69 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Nissan/Kicks/6756/1568865552889/front-left-side-47.jpg,Hatchback,1461,20.45
+83,Nissan,Terrano,4.4,₹ 9.99 Lakh*,₹ 14.64 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Nissan/Nissan-Terrano/5701/1556017951761/front-left-side-47.jpg,SUV,1461,19.61
+84,Nissan,GT-R,4.9,₹ 2.12 Cr*,₹ 2.12 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Nissan/Nissan-GTR/744/front-left-side-47.jpg,Coupe,3798,9.0
+85,Datsun,redi-GO,4.4,₹ 2.82 Lakh*,₹ 4.4 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Datsun/Datsun-RediGO/4035/front-left-side-47.jpg,Hatchback,999,23.0
+86,Datsun,GO,4.3,₹ 3.77 Lakh*,₹ 6.21 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Datsun/Datsun-GO/6649/front-left-side-47.jpg,Hatchback,1198,20.07
+87,Datsun,GO Plus,4.2,₹ 4.15 Lakh*,₹ 6.83 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Datsun/Datsun-GO-Plus/6654/front-left-side-47.jpg,MUV,1198,19.41
+88,Toyota,Etios Liva,4.4,₹ 5.34 Lakh*,₹ 7.77 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Toyota-Etios-Liva/5438/1556110462017/front-left-side-47.jpg,Hatchback,1364,23.59
+89,Toyota,Etios Cross,4.6,₹ 6.5 Lakh*,₹ 8.02 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Toyota-Etios-Cross/2818/front-left-side-47.jpg,Hatchback,1364,23.59
+90,Toyota,Platinum Etios,4.2,₹ 6.5 Lakh*,₹ 9.13 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Toyota-Etios/5430/front-left-side-47.jpg,Sedans,1364,23.59
+91,Toyota,Glanza,4.2,₹ 6.97 Lakh*,₹ 8.9 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Toyota-Glanza/6902/1559807182519/front-left-side-47.jpg,Hatchback,1197,19.56
+92,Toyota,Yaris,4.3,₹ 8.76 Lakh*,₹ 14.18 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Yaris/7283/1579858168291/front-left-side-47.jpg,Hatchback,1496,17.8
+93,Toyota,Innova Crysta,4.6,₹ 15.36 Lakh*,₹ 23.02 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Innova-Crysta/7298/1578374701577/front-left-side-47.jpg,MUV,2393,13.68
+94,Toyota,Corolla Altis,4.3,₹ 16.45 Lakh*,₹ 20.19 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Toyota-Corolla-Altis/5673/1555996480970/front-left-side-47.jpg,Sedans,1798,14.28
+95,Toyota,Fortuner,4.7,₹ 28.18 Lakh*,₹ 33.95 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Fortuner/7618/1582180576624/front-left-side-47.jpg,SUV,2755,15.04
+96,Toyota,Camry,4.7,₹ 37.88 Lakh*,₹ 37.88 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Toyota-Camry/6765/1548746490056/front-left-side-47.jpg,Sedans,2487,19.16
+97,Toyota,Prius,3.2,₹ 45.09 Lakh*,₹ 45.09 Lakh*,https://stimg.cardekho.com/car-images/carexteriorimages/630x420/Toyota/Toyota-Prius/5643/front-left-side-047.jpg,Hybrids,1798,26.27
+98,Toyota,Vellfire,5.0,₹ 79.5 Lakh*,₹ 79.5 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Toyota-Vellfire/7024/1563439989810/front-left-side-47.jpg,MUV,2494,0.0
+99,MG,Hector,4.7,₹ 12.73 Lakh*,₹ 17.43 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/MG/Hector/7480/1580466437017/front-left-side-47.jpg,SUV,1451,13.96
+100,MG,ZS EV,4.4,₹ 20.88 Lakh*,₹ 23.58 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/MG/ZS-EV/6873/1577175248756/front-left-side-47.jpg,SUV,,0.0
+101,Kia,Seltos,4.6,₹ 9.89 Lakh*,₹ 17.34 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Kia/Seltos/6226/1580962193955/front-left-side-47.jpg,SUV,1493,17.8
+102,Kia,Carnival,4.5,₹ 24.95 Lakh*,₹ 33.95 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Kia/Kia-Carnival/7011/1565587390548/front-left-side-47.jpg,MUV,2199,0.0
+103,Volkswagen,Polo,4.4,₹ 5.84 Lakh*,₹ 9.88 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Volkswagen/Volkswagen-Polo/7143/1567599623608/front-left-side-47.jpg,Hatchback,1498,21.49
+104,Volkswagen,Ameo,4.4,₹ 5.95 Lakh*,₹ 9.9 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Volkswagen/Volkswagen-Ameo/6313/1556003485791/front-left-side-47.jpg,Sedans,1498,21.66
+105,Volkswagen,Vento,4.6,₹ 8.78 Lakh*,₹ 14.49 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Volkswagen/Volkswagen-Vento/7157/1567669268825/front-left-side-47.jpg,Sedans,1498,22.15
+106,Volkswagen,Tiguan,4.6,₹ 28.07 Lakh*,₹ 31.46 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Volkswagen/Volkswagen-Tiguan/5857/front-left-side-47.jpg,SUV,1968,16.65
+107,Skoda,Rapid,4.3,₹ 8.81 Lakh*,₹ 14.25 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Skoda/Skoda-Rapid/1464/1549454668066/side-view-(left)-90.jpg,Sedans,1498,21.72
+108,Skoda,Octavia,4.4,₹ 15.99 Lakh*,₹ 36.0 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Skoda/Octavia/5909/1575634322881/front-left-side-47.jpg,Sedans,1968,19.5
+109,Skoda,Superb,4.5,₹ 23.99 Lakh*,₹ 33.49 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Skoda/Skoda-Superb/4911/1555487699791/front-left-side-47.jpg,Sedans,1968,18.19
+110,Skoda,Kodiaq,4.7,₹ 33.99 Lakh*,₹ 36.78 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Skoda/Kodiaq/5357/1569903737948/front-left-side-47.jpg,SUV,1968,16.25
+111,Jeep,Compass,4.2,₹ 16.49 Lakh*,₹ 24.99 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Jeep/Jeep-Compass/5937/1559651334039/front-left-side-47.jpg,SUV,1956,17.1
+112,Jeep,Compass Trailhawk,4.5,₹ 26.8 Lakh*,₹ 27.6 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Jeep/Jeep-Trailhawk/6974/1561461281768/front-left-side-47.jpg,SUV,1956,16.3
+113,Jeep,Wrangler,4.9,₹ 63.94 Lakh*,₹ 63.94 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Jeep/Jeep-Wrangler/6491/1565593371233/front-left-side-47.jpg,SUV,1998,12.1
+114,Jeep,Grand Cherokee,4.7,₹ 78.88 Lakh*,₹ 1.14 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Jeep/Jeep-Grand-Cherokee/1979/1559652101053/front-left-side-47.jpg,SUV,2998,5.5
+115,Fiat,Punto EVO,4.5,₹ 5.35 Lakh*,₹ 7.47 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Fiat/Fiat-Punto-EVO/5294/1542279816078/front-left-side-47.jpg,Hatchback,1248,20.5
+116,Fiat,Avventura Urban Cross,5.0,₹ 6.77 Lakh*,₹ 9.77 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Fiat/Fiat-Avventura-Urban-Cross/4874/1557209618012/front-left-side-47.jpg,Hatchback,1368,14.4
+117,Fiat,Avventura,3.8,₹ 7.11 Lakh*,₹ 8.76 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Fiat/Avventura/5266/1576069362698/front-left-side-47.jpg,Hatchback,1248,20.5
+118,Fiat,Linea,4.2,₹ 7.82 Lakh*,₹ 10.76 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Fiat/Fiat-Linea/5288/1550837106711/front-left-side-47.jpg,Sedans,1368,14.2
+119,Fiat,Abarth Punto,4.7,₹ 9.67 Lakh*,₹ 9.67 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Fiat/Fiat-Punto-Abarth/4479/1550838871759/front-left-side-47.jpg,Hatchback,1368,16.3
+120,Fiat,Abarth Avventura,5.0,₹ 9.89 Lakh*,₹ 9.89 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Fiat/Abarth-Avventura/718/1574163662125/front-left-side-47.jpg,Hatchback,1368,17.1
+121,Isuzu,D-Max V-Cross,4.7,₹ 16.54 Lakh*,₹ 19.99 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Isuzu/Isuzu-D-Max-V-Cross/6992/1561110648347/front-left-side-47.jpg,Pickup Trucks,1999,12.4
+122,Isuzu,ISUZU MUX,4.5,₹ 27.34 Lakh*,₹ 29.31 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Isuzu/Isuzu-MU-X/6663/front-left-side-47.jpg,SUV,2999,13.8
+123,Audi,A3,4.7,₹ 29.2 Lakh*,₹ 32.21 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/Audi-A3/5749/front-left-side-47.jpg,Sedans,1968,20.38
+124,Audi,Q3,4.3,₹ 34.96 Lakh*,₹ 43.61 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/Audi-Q3/5911/1556088228664/front-left-side-47.jpg,SUV,1968,15.17
+125,Audi,A4,4.6,₹ 41.49 Lakh*,₹ 46.96 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/A4/7228/1572929406146/front-left-side-47.jpg,Sedans,1968,18.25
+126,Audi,Q5,4.5,₹ 50.21 Lakh*,₹ 56.21 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/Q5/7225/1575029133626/front-left-side-47.jpg,SUV,1984,8.5
+127,Audi,A3 cabriolet,4.6,₹ 50.59 Lakh*,₹ 50.59 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/Audi-A3-cabriolet/5620/1556607490704/front-left-side-47.jpg,Convertibles,1395,19.2
+128,Audi,A6,4.7,₹ 54.42 Lakh*,₹ 59.42 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/A6/6426/1571906388003/front-left-side-47.jpg,Sedans,1984,15.26
+129,Audi,A5,5.0,₹ 60.61 Lakh*,₹ 69.48 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/Audi-A5/8/front-left-side-47.jpg,Sedans,1968,17.2
+130,Audi,Q7,4.4,₹ 69.21 Lakh*,₹ 81.11 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/Audi-Q7/7165/1568627077914/front-left-side-47.jpg,SUV,2967,14.75
+131,Audi,S5,4.5,₹ 72.65 Lakh*,₹ 72.65 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/S5/6035/1575089709979/front-left-side-47.jpg,Sedans,2995,12.28
+132,Audi,RS5,4.5,₹ 1.11 Cr*,₹ 1.11 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/Audi-RS5/24/front-left-side-47.jpg,Coupe,2894,11.05
+133,Audi,Q8,4.6,₹ 1.33 Cr*,₹ 1.33 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/Q8/135/1581404410220/front-left-side-47.jpg,SUV,2995,0.0
+134,Audi,A8,5.0,₹ 1.56 Cr*,₹ 1.56 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/Audi-A8-2019/6722/1544785682176/front-left-side-47.jpg,Sedans,2995,0.0
+135,Mercedes-Benz,GLA Class,4.6,₹ 32.33 Lakh*,₹ 41.51 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/Mercedes-Benz-GLA-Class/5896/1555489163313/front-left-side-47.jpg,SUV,2143,17.9
+136,Mercedes-Benz,C-Class,4.4,₹ 40.9 Lakh*,₹ 75.0 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/C-Class/6675/1570438129512/front-left-side-47.jpg,Convertibles,2996,11.9
+137,Mercedes-Benz,GLC,5.0,₹ 52.75 Lakh*,₹ 57.75 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/GLC/6837/1576565007128/front-left-side-47.jpg,SUV,1950,0.0
+138,Mercedes-Benz,E-Class,4.6,₹ 59.07 Lakh*,₹ 1.5 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/E-Class/7581/1581591024912/front-left-side-47.jpg,Sedans,3982,10.98
+139,Mercedes-Benz,V-Class,4.0,₹ 68.4 Lakh*,₹ 1.46 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/V-Class/7519/Mercedes-Benz-V-Class-Marco-Polo-Horizon/1580975581761/front-left-side-47.jpg,MUV,2143,16.0
+140,Mercedes-Benz,GLE,3.7,₹ 73.7 Lakh*,₹ 1.25 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/GLE/6732/1580365808263/front-left-side-47.jpg,SUV,2925,9.7
+141,Mercedes-Benz,E-Class All-Terrain,5.0,₹ 75.0 Lakh*,₹ 75.0 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/Mercedes-Benz-E-Class-All-Terrain/6167/front-left-side-47.jpg,Wagons,1950,12.6
+142,Mercedes-Benz,CLS,4.4,₹ 84.7 Lakh*,₹ 84.7 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/Mercedes-Benz-CLS-Class/6684/1541421574163/front-left-side-47.jpg,Sedans,1950,19.0
+143,Mercedes-Benz,GLS,4.9,₹ 87.76 Lakh*,₹ 88.2 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/Mercedes-Benz-GLS/5404/front-left-side-47.jpg,SUV,2987,11.0
+144,Mercedes-Benz,S-Class,5.0,₹ 1.35 Cr*,₹ 2.78 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/S-Class/6285/1573626627472/front-left-side-47.jpg,Sedans,5980,7.08
+145,Mercedes-Benz,G-Class,4.8,₹ 1.5 Cr*,₹ 2.19 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/G-Class/7194/Mercedes-Benz-G-Class-G-350d/1571213652846/front-left-side-47.jpg,SUV,3998,8.13
+146,Mercedes-Benz,AMG GT,5.0,₹ 2.27 Cr*,₹ 2.32 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/AMG-GT/5942/1571386469223/front-left-side-47.jpg,Coupe,3982,12.65
+147,Mercedes-Benz,AMG GT 4-Door Coupe,0.0,₹ 2.42 Cr*,₹ 2.42 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/AMG-GT-4-Door-Coupe/7324/1581577056607/front-left-side-47.jpg,Coupe,3998,0.0
+148,BMW,X1,4.5,₹ 35.2 Lakh*,₹ 45.7 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/BMW-X1/4863/front-left-side-47.jpg,SUV,1995,20.68
+149,BMW,3 Series,4.9,₹ 41.4 Lakh*,₹ 48.5 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/BMW-3-Series/7097/1567065124604/front-left-side-47.jpg,Sedans,1998,16.13
+150,BMW,3 Series GT,4.9,₹ 47.7 Lakh*,₹ 50.7 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/BMW-3-Series-GT/6634/front-left-side-47.jpg,Sedans,1995,21.76
+151,BMW,5 Series,4.5,₹ 55.4 Lakh*,₹ 66.8 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/5-Series/247/1569407584980/front-left-side-47.jpg,Sedans,2993,18.59
+152,BMW,X3,4.9,₹ 56.0 Lakh*,₹ 60.5 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/BMW-X3/6691/1558085336399/front-left-side-47.jpg,SUV,1998,13.32
+153,BMW,X4,4.7,₹ 60.6 Lakh*,₹ 65.9 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/BMW-X4/6392/1556867341933/front-left-side-47.jpg,SUV,2993,14.71
+154,BMW,6 Series,4.9,₹ 64.4 Lakh*,₹ 74.5 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/BMW-6-Series/6475/1542178839026/front-left-side-47.jpg,Sedans,2993,17.09
+155,BMW,Z4,5.0,₹ 66.0 Lakh*,₹ 80.5 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/BMW-Z4/6873/1554784181731/front-left-side-47.jpg,Convertibles,2998,14.37
+156,BMW,X5,4.8,₹ 73.3 Lakh*,₹ 84.4 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/BMW-X5/6455/1558002027816/front-left-side-47.jpg,SUV,2998,11.24
+157,BMW,M2,5.0,₹ 83.4 Lakh*,₹ 83.4 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/BMW-M2/6553/1550825715959/front-left-side-47.jpg,Coupe,2979,10.63
+158,BMW,X7,4.8,₹ 1.02 Cr*,₹ 1.06 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/BMW-X7/7028/1564040002009/front-left-side-47.jpg,SUV,2998,10.54
+159,BMW,7 Series,4.8,₹ 1.22 Cr*,₹ 2.44 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/BMW-7-Series/6732/1564054967018/front-left-side-47.jpg,Sedans,6592,7.96
+160,BMW,M Series,5.0,₹ 1.35 Cr*,₹ 1.54 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/M-Series/7196/1570622880813/front-left-side-47.jpg,Sedans,4395,9.8
+161,Jaguar,XE,4.9,₹ 44.98 Lakh*,₹ 46.33 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Jaguar/XE/6836/1578638648168/front-left-side-47.jpg,Sedans,1999,0.0
+162,Jaguar,XF,4.4,₹ 49.78 Lakh*,₹ 61.39 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Jaguar/Jaguar-XF/5449/1559808281457/front-left-side-47.jpg,Sedans,1999,19.33
+163,Jaguar,F-PACE,4.3,₹ 63.78 Lakh*,₹ 64.23 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Jaguar/Jaguar-F-Pace/4889/1561541064784/front-left-side-47.jpg,SUV,1997,14.38
+164,Jaguar,F-TYPE,4.8,₹ 90.93 Lakh*,₹ 2.8 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Jaguar/Jaguar-F-Type/5905/1551072880315/front-left-side-47.jpg,Coupe,5000,12.5
+165,Jaguar,XJ,4.8,₹ 1.11 Cr*,₹ 1.11 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Jaguar/Jaguar-XJ/6710/1549868337266/front-left-side-47.jpg,Sedans,2993,14.47
+166,Volvo,S60,4.7,₹ 38.5 Lakh*,₹ 56.02 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Volvo/S60/7541/1581502479379/front-left-side-47.jpg,luxury,1969,19.6
+167,Volvo,XC40,5.0,₹ 39.9 Lakh*,₹ 43.9 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Volvo/XC40/7534/1581579478445/front-left-side-47.jpg,SUV,1969,18.0
+168,Volvo,S60 Cross Country,4.7,₹ 44.26 Lakh*,₹ 44.26 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Volvo/S60-Cross-Country/7542/1581504595860/front-left-side-47.jpg,Sedans,2400,19.6
+169,Volvo,S90,4.4,₹ 51.9 Lakh*,₹ 58.9 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Volvo/S90/7531/1581501304416/front-left-side-47.jpg,Sedans,1969,18.0
+170,Volvo,XC60,4.6,₹ 52.9 Lakh*,₹ 59.9 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Volvo/XC60/7529/1581405299193/front-left-side-47.jpg,SUV,1969,11.2
+171,Volvo,V90 Cross Country,5.0,₹ 65.31 Lakh*,₹ 65.31 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Volvo/V90-Cross-Country/7532/1581407944078/front-left-side-47.jpg,Wagons,1969,12.5
+172,Volvo,XC90,4.8,₹ 80.9 Lakh*,₹ 1.42 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Volvo/XC90/7537/1581479960143/front-left-side-47.jpg,luxury,1969,42.0
+173,Lexus,ES,4.9,₹ 51.9 Lakh*,₹ 56.95 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Lexus/ES/7479/1581575690605/front-left-side-47.jpg,Sedans,2487,22.37
+174,Lexus,NX,4.8,₹ 54.9 Lakh*,₹ 60.6 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Lexus/NX/7476/1580532970763/front-left-side-47.jpg,SUV,2499,18.32
+175,Lexus,RX,0.0,₹ 99.0 Lakh*,₹ 99.0 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Lexus/RX/7187/1570097913508/front-left-side-47.jpg,SUV,3456,18.8
+176,Lexus,LS,0.0,₹ 1.82 Cr*,₹ 1.87 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Lexus/Lexus-LS/468/1559040851836/front-left-side-47.jpg,Sedans,3456,15.4
+177,Lexus,LC 500h,0.0,₹ 1.96 Cr*,₹ 1.96 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Lexus/LC-500h/7043/1580468156307/front-left-side-47.jpg,Sedans,3456,0.0
+178,Lexus,LX,5.0,₹ 2.32 Cr*,₹ 2.32 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Lexus/Lexus-LX/6446/front-left-side-47.jpg,SUV,5663,6.9
+179,Land Rover,Range Rover Evoque,4.9,₹ 54.94 Lakh*,₹ 59.85 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Land-Rover/Range-Rover-Evoque/6707/1580447944214/front-left-side-47.jpg,SUV,1999,0.0
+180,Land Rover,Discovery Sport,0.0,₹ 57.06 Lakh*,₹ 60.89 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Land-Rover/Discovery-Sport/7575/1581593544347/front-left-side-47.jpg,SUV,1999,0.0
+181,Land Rover,Defender,4.0,₹ 69.99 Lakh*,₹ 87.1 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Land-Rover/Defender/4848/1582706137497/front-left-side-47.jpg,SUV,1997,0.0
+182,Land Rover,Range Rover Velar,4.6,₹ 71.87 Lakh*,₹ 71.87 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Land-Rover/Range-Rover-Velar/6882/1581574702836/front-left-side-47.jpg,SUV,1997,15.8
+183,Land Rover,Discovery,5.0,₹ 75.6 Lakh*,₹ 88.0 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/360x240/Land-Rover/Land-Rover-Discovery/1559636715343/047.jpg,SUV,1999,18.0
+184,Land Rover,Range Rover Sport,5.0,₹ 87.02 Lakh*,₹ 1.0 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Land-Rover/Range-Rover-Sport/6956/1581672766477/front-left-side-47.jpg,SUV,1997,12.65
+185,Land Rover,Range Rover,4.8,₹ 1.82 Cr*,₹ 4.06 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Land-Rover/Land-Rover-Range-Rover/5880/front-left-side-47.jpg,SUV,4999,7.8
+186,Porsche,Macan,5.0,₹ 69.98 Lakh*,₹ 85.12 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Porsche/Macan/6514/1579597960203/front-left-side-47.jpg,SUV,2997,0.0
+187,Porsche,718,5.0,₹ 85.95 Lakh*,₹ 89.95 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Porsche/718/5632/1581578133187/front-left-side-47.jpg,Coupe,1988,9.0
+188,Porsche,Cayenne,5.0,₹ 1.19 Cr*,₹ 1.92 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Porsche/Porsche-Cayenne/6665/1551155517767/front-left-side-47.jpg,SUV,3996,0.0
+189,Porsche,Cayenne Coupe,0.0,₹ 1.31 Cr*,₹ 1.97 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Porsche/Cayenne-Coupe/7086/1576240802670/front-left-side-47.jpg,Coupe,3996,0.0
+190,Porsche,911,5.0,₹ 1.62 Cr*,₹ 1.99 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Porsche/911/7652/Porsche-911-Carrera/1582882032873/front-left-side-47.jpg,Coupe,2981,9.0
+191,Porsche,Panamera,5.0,₹ 1.89 Cr*,₹ 2.52 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Porsche/Panamera/4504/1579595790692/front-left-side-47.jpg,Sedans,3996,10.75
+192,Ferrari,Portofino,5.0,₹ 3.5 Cr*,₹ 3.5 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Ferrari/Ferrari-Portofino/6172/1550828910903/front-left-side-47.jpg,Convertibles,3855,9.0
+193,Ferrari,GTC4Lusso,4.0,₹ 4.26 Cr*,₹ 4.97 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Ferrari/Ferrari-GTC4Lusso/4892/front-left-side-47.jpg,Coupe,6262,4.0
+194,Ferrari,488,4.6,₹ 4.4 Cr*,₹ 4.4 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Ferrari/Ferrari-488-GTB/6830/1565596137792/front-left-side-47.jpg,Coupe,3902,7.75
+195,Ferrari,812 Superfast,4.9,₹ 5.2 Cr*,₹ 5.2 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Ferrari/Ferrari-812-SuperFast/6301/1550829293731/front-left-side-47.jpg,Coupe,6496,6.7
+196,Rolls-Royce,Ghost,4.1,₹ 6.21 Cr*,₹ 7.0 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Rolls-Royce/Rolls-Royce-Ghost/3541/1556599498897/front-left-side-47.jpg,Sedans,6592,10.2
+197,Rolls-Royce,Wraith,5.0,₹ 6.71 Cr*,₹ 7.21 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Rolls-Royce/Rolls-Royce-Wraith/2555/front-left-side-47.jpg,Coupe,6592,10.2
+198,Rolls-Royce,Rolls-Royce Cullinan,4.9,₹ 6.95 Cr*,₹ 6.95 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Rolls-Royce/Rolls-Royce-Cullinan/6405/1556533266269/front-left-side-47.jpg,SUV,6750,9.5
+199,Rolls-Royce,Dawn,5.0,₹ 7.3 Cr*,₹ 7.85 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Rolls-Royce/Rolls-Royce-Dawn/4289/1556525892112/front-left-side-47.jpg,Convertibles,6598,9.8
+200,Rolls-Royce,Phantom,4.6,₹ 9.5 Cr*,₹ 11.35 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Rolls-Royce/Rolls-Royce-Phantom/809/1551166187443/front-left-side-47.jpg,Coupe,6749,9.8
+201,Bentley,Flying Spur,4.8,₹ 3.21 Cr*,₹ 3.41 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Bentley/Bentley-Flying-Spur/3081/1556258398038/front-left-side-47.jpg,Sedans,5998,10.2
+202,Bentley,Continental,4.5,₹ 3.29 Cr*,₹ 4.42 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Bentley/Bentley-Continental/34/1550823860141/front-left-side-47.jpg,Sedans,5998,9.5
+203,Bentley,Bentayga,5.0,₹ 3.78 Cr*,₹ 3.85 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Bentley/Bentley-Bentayga/6454/1556259226969/front-left-side-47.jpg,SUV,5950,10.9
+204,Bentley,Mulsanne,4.4,₹ 5.55 Cr*,₹ 5.55 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Bentley/Bentley-Mulsanne/36/1550824747369/front-left-side-47.jpg,Sedans,6752,10.1
+205,DC,Avanti,3.9,₹ 48.0 Lakh*,₹ 48.0 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/DC/Avanti/5193/1570790896230/front-left-side-47.jpg,Coupe,2000,10.0
+206,Bugatti,Chiron,4.2,₹ 19.21 Cr*,₹ 21.21 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Bugatti/Bugatti-Chiron/6524/1550828170128/front-left-side-47.jpg,Coupe,7993,5.95
+207,Force,Gurkha,4.3,₹ 9.75 Lakh*,₹ 13.3 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Force/Force-Gurkha/5743/front-left-side-47.jpg,SUV,2149,17.0
+208,Mitsubishi,Outlander,4.8,₹ 27.19 Lakh*,₹ 27.19 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Mitsubishi/Mitsubishi-Outlander/6477/1551100207021/front-left-side-47.jpg,SUV,2360,10.2
+209,Mitsubishi,Pajero Sport,4.3,₹ 27.91 Lakh*,₹ 30.0 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Mitsubishi/Mitsubishi-Pajero/1851/front-left-side-47.jpg,SUV,2477,13.5
+210,Bajaj,Qute (RE60),3.8,₹ 2.48 Lakh*,₹ 2.78 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Bajaj/Bajaj-RE60/6892/1556086911186/front-left-side-47.jpg,Hatchback,216,43.0
+211,Lamborghini,Huracan,4.9,₹ 2.99 Cr*,₹ 3.97 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Lamborghini/Huracan/7651/1582720003752/front-left-side-47.jpg,Coupe,5204,11.24
+212,Lamborghini,Urus,5.0,₹ 3.1 Cr*,₹ 3.1 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Lamborghini/Lamborghini-Urus/4851/1556518725473/front-left-side-47.jpg,SUV,3996,8.0
+213,Lamborghini,Huracan EVO,4.9,₹ 3.22 Cr*,₹ 4.1 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Lamborghini/Huracan-EVO/6729/1570440785813/front-left-side-47.jpg,Coupe,5204,7.19
+214,Lamborghini,Aventador,4.7,₹ 5.01 Cr*,₹ 6.25 Cr*,https://stimg.cardekho.com/images/carexteriorimages/360x240/Lamborghini/Lamborghini-Aventador/1556261160137/047.jpg,Coupe,6498,7.69
+215,Mini,Cooper 3 DOOR,4.7,₹ 29.9 Lakh*,₹ 43.9 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Mini/Mini-3-DOOR/6917/1559363752813/front-left-side-47.jpg,Hatchback,1998,16.47
+216,Mini,Cooper 5 DOOR,4.0,₹ 36.0 Lakh*,₹ 36.0 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Mini/Mini-5-DOOR/3582/1556530637278/front-left-side-47.jpg,Hatchback,1496,20.7
+217,Mini,Countryman,4.7,₹ 37.4 Lakh*,₹ 42.4 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Mini/Mini-Cooper-Countryman/6279/1551096601065/front-left-side-47.jpg,Hatchback,1998,16.6
+218,Mini,Cooper Convertible,4.5,₹ 38.9 Lakh*,₹ 38.9 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Mini/Mini-Cooper-Convertible/1726/front-left-side-47.jpg,Convertibles,1998,16.7
+219,Mini,Clubman,0.0,₹ 41.2 Lakh*,₹ 41.2 Lakh*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Mini/Mini-Cooper-Clubman/1725/1563866199256/front-left-side-47.jpg,Hatchback,1998,13.79
+220,Aston Martin,Rapide,4.1,₹ 3.29 Cr*,₹ 3.29 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Aston-Martin/Aston-Martin-Rapide/5142/front-left-side-47.jpg,Sedans,5935,10.9
+221,Aston Martin,DB11,4.5,₹ 3.97 Cr*,₹ 3.97 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Aston-Martin/Aston-Martin-DB11/5456/1556196143987/front-left-side-47.jpg,Coupe,5204,6.0
+222,Maserati,Ghibli,0.0,₹ 1.35 Cr*,₹ 1.52 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Maserati/Ghibli/7552/1582365598262/front-left-side-47.jpg,Sedans,2987,16.94
+223,Maserati,Levante,5.0,₹ 1.49 Cr*,₹ 1.64 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Maserati/Levante/7547/1582365134672/front-left-side-47.jpg,SUV,2979,12.0
+224,Maserati,Quattroporte,4.0,₹ 1.71 Cr*,₹ 2.11 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Maserati/Quattroporte/7561/1582364877697/front-left-side-47.jpg,Sedans,3799,11.76
+225,Maserati,GranTurismo,5.0,₹ 2.25 Cr*,₹ 2.51 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Maserati/Maserati-Gran-Turismo/6660/1559626637346/front-left-side-47.jpg,Coupe,4691,10.0
+226,Maserati,GranCabrio,3.7,₹ 2.46 Cr*,₹ 2.69 Cr*,https://stimg.cardekho.com/images/carexteriorimages/630x420/Maserati/Maserati-Gran-Cabrio/4203/front-left-side-47.jpg,Convertibles,4691,10.2
