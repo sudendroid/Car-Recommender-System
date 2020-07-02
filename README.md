@@ -5,7 +5,7 @@ A Content based recommendation system to  get similar cars based on cars metadat
 Link: [https://car-recommendation.herokuapp.com/](https://indian-currency-prediction.herokuapp.com/)
 
 
-[![](https://i.imgur.com/O93sw1y.png)](https://indian-currency-prediction.herokuapp.com/)
+[![](https://i.imgur.com/O93sw1y.png)](https://car-recommendation.herokuapp.com/)
 
 
 ## Technologies Used
