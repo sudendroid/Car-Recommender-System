@@ -19,6 +19,6 @@ def recommendation(carid):
     return render_template('recommender.html', car=get_car(carid), similarcars=similar_cars)
 
 
+compute_similarities()
 if __name__ == "__main__":
-    compute_similarities()
     app.run(debug=True)
